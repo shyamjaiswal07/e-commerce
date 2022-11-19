@@ -1,3 +1,10 @@
+# Things we learn git command
+1. git checkout - switch git branch
+syntax - git checkout <branch_name>
+
+2. git pull origin branchName - update your branch form other branch.
+syntax - git pull origin <branch_name>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

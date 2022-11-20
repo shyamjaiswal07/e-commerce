@@ -15,7 +15,6 @@ const ThreeCompoent = () => {
                             Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.
                         </p>
                     </div>
-
                     <div className="col-md-4">
                         <h1 className='three__icon'><RiCustomerService2Fill /></h1>
                         <h5>Support Customer</h5>
@@ -23,21 +22,12 @@ const ThreeCompoent = () => {
                             Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.
                         </p>
                     </div>
-
                     <div className="col-md-4">
                         <h1 className='three__icon'><RiSecurePaymentLine /></h1>
                         <h5>Secure Payments</h5>
                         <p className='text-secondary'>
                             Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.
                         </p>
-                <div className="row">
-                    <div className="col-md-4">
-                        <FaShippingFast />
-                    </div>
-                    <div className="col-md-4">
-                        <RiCustomerService2Fill />
-                    </div>
-                    <div className="col-md-4">
                     </div>
                 </div>
             </div>

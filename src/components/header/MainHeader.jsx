@@ -1,5 +1,6 @@
 import React from "react";
 import { NavLink } from "react-router-dom";
+import ThreeCompoent from "../threecomp/ThreeCompoent";
 import TopHeader from "./TopHeader";
 
 const MainHeader = () => {
@@ -54,6 +55,8 @@ const MainHeader = () => {
           </div>
         </nav>
       </>
+
+      <ThreeCompoent />
     </>
   );
 };

@@ -30,6 +30,14 @@ const ThreeCompoent = () => {
                         <p className='text-secondary'>
                             Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.
                         </p>
+                <div className="row">
+                    <div className="col-md-4">
+                        <FaShippingFast />
+                    </div>
+                    <div className="col-md-4">
+                        <RiCustomerService2Fill />
+                    </div>
+                    <div className="col-md-4">
                     </div>
                 </div>
             </div>

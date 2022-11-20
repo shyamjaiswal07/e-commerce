@@ -1,6 +1,7 @@
 import './App.css';
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import MainHeader from './components/header/MainHeader';
+import Hero from './components/heroSection/Hero';
 
 function App() {
   return (
@@ -9,6 +10,7 @@ function App() {
         
         <Routes>
           <Route path='/' element={<MainHeader />} />
+          <Route path='/hero' element={<Hero />} />
         </Routes>
       </BrowserRouter>
     </>

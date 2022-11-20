@@ -1,6 +1,9 @@
 import './App.css';
+
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import MainHeader from './components/header/MainHeader';
+import Footer from './components/Footer';
+
 
 function App() {
   return (
@@ -9,6 +12,7 @@ function App() {
         <Routes>
           <Route path='/' element={<MainHeader />} />
         </Routes>
+        <Footer/>
       </BrowserRouter>
     </>
   );

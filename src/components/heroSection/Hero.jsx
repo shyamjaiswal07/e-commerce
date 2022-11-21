@@ -3,7 +3,7 @@ import React from "react";
 const Hero = () => {
   return (
     <>
-      <div className="w-100"> 
+      <div className="w-100" style={{marginTop:"-105px",zIndex:'220'}} > 
         <div
           id="carouselExampleSlidesOnly"
           className="carousel slide"

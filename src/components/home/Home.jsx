@@ -5,7 +5,7 @@ import ThreeCompoent from '../threecomp/ThreeCompoent'
 const Home = () => {
   return (
     <>
-    {/* <Hero /> */}
+    <Hero />
     <ThreeCompoent />
     </>
   )

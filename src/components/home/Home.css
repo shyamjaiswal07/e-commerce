@@ -1,0 +1,33 @@
+
+.choose-wrap{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.gallery1{
+    /* style={{backgroundImage: "url(./Images/choose-1.jpg)"}} */
+    background-image: url("../../Images/choose-1.jpg");
+    height: 560px;
+}
+.gallery2{
+    background-image: url("../../Images/choose-2.jpg");
+    height: 285px;
+}
+
+.gallery3{
+    height: 275px;
+}
+.gallery4{
+    background-image: url("../../Images/choose-3.jpg");
+    height: 275px;
+}
+
+.s-gallery{
+    /* height: 550px; */
+}
+.r-gallery{
+    /* height:calc(100% - 50%) */
+}
+.b-Image{
+    
+}
